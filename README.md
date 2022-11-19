@@ -1,5 +1,5 @@
 # TestTask
-При разработку программы использовался Python 3.11
+При разработке программы использовался Python 3.11
 
 Модули: 
 1) Tkinter (https://docs.python.org/3/library/tkinter.html) стандартная библиотека, 
