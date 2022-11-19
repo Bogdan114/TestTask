@@ -1,5 +1,6 @@
 # TestTask
 При разработку программы использовался Python 3.11
+
 Модули: 
 1) Tkinter (https://docs.python.org/3/library/tkinter.html) стандартная библиотека, 
 2) Cryptodome (https://pycryptodome.readthedocs.io/en/latest/src/installation.html) внешняя библиотека
