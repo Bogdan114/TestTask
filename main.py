@@ -60,27 +60,27 @@ combo.current(3)
 combo.place(x=350, y=30, width = 100)
 
 login_label = Label(text = "Login")
-login_label.place(x=20, y=10, width = 30, height = 20)
+login_label.place(x=20, y=10, width = 50, height = 20)
 login = Entry(text="Login")
 login.place(x=20, y=30, width = 300)
 
 password_label = Label(text = "Password")
-password_label.place(x=20, y=50, width = 50, height = 20)
+password_label.place(x=20, y=50, width = 70, height = 20)
 password = Entry(text="Password")
 password.place(x=20, y=70, width = 300)
 
 aes_login_label = Label(text = "Encrypted login")
-aes_login_label.place(x=480, y=10, width = 85, height = 20)
+aes_login_label.place(x=480, y=10, width = 105, height = 20)
 aes_login = Entry(text="Login1")
 aes_login.place(x=480, y=30, width = 300)
 
 aes_password_label = Label(text = "Encrypted password")
-aes_password_label.place(x=480, y=50, width = 105, height = 20)
+aes_password_label.place(x=480, y=50, width = 125, height = 20)
 aes_password = Entry(text="Password1")
 aes_password.place(x=480, y=70, width = 300)
 
 aes_password_label = Label(text = "Logs")
-aes_password_label.place(x=20, y=100, width = 30, height = 20)
+aes_password_label.place(x=20, y=100, width = 50, height = 20)
 
 log_listbox = Listbox()
 log_listbox.place(x=20, y=120, width = 760, height = 170)
